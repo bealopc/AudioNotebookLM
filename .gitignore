@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Audio y temporales
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code / Antigravity
+.vscode/
+.settings/
+
+# Logs
+*.log
