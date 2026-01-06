@@ -134,7 +134,7 @@ Escribir el .mp4 de salida.
 
 Eso requiere otro repo/configuración (Torch, modelos, etc.) y no se incluye aquí.
 
-Empaquetado (opcional_no funcionó) — GUI en EXE
+Empaquetado (opcional) — GUI en EXE
 
 Para distribuir la GUI como ejecutable:
 cd "%USERPROFILE%\AudioNotebookLM"
